@@ -1,7 +1,7 @@
 # MedStudentHub.
-sajawal sardar
-Q. No:1. Choose the correct options.				Marks: - (17)	              Time: 20 MINT
-1.	Which diode works at reverse blasing?
+#title sajawal sardar
+#description Q. No:1. Choose the correct options.				Marks: - (17)	              Time: 20 MINT
+#footer 1.	Which diode works at reverse blasing?
              (a)  LED                         (b) Photovoltaic cell               (c) Photodiode                          (d) Silicon diode 
 2.	Electric potential energy per unit charge is known as electric
 (a) flux			(b)Potential difference 	         (c)intensity		      (d)force
